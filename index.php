@@ -13,7 +13,7 @@ if ($file_dir == "") {
 		<meta charset="utf-8">
 	</head>
 <body>
-<center><h1>Kurisu</h1><p>Renaming tool for KODI</p>
+<center><h1>Aikunai</h1><p>Renaming tool for KODI</p>
 <p>Current working with directory: <b><?php echo $file_dir; ?></b> </p> 
 <form action="action.php">
 <select name="dir">
