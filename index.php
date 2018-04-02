@@ -9,7 +9,7 @@ if ($file_dir == "") {
 ?>
 <html>
 	<head>
-		<title>Moeka - Anime KODI renaming tool</title>
+		<title>Aikunai - Anime KODI renaming tool</title>
 		<meta charset="utf-8">
 	</head>
 <body>
