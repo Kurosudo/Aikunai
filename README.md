@@ -36,7 +36,7 @@ Usage
 
 Usage is very simple. After proper installation just open your browser and type http://[YOURIP]/ and you will see this
 
-<img src="https://i.imgur.com/JbbrcLi.png" width="100">
+<img src="https://i.imgur.com/JbbrcLi.png">
 
 And follow instruction
 
