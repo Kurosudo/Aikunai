@@ -65,14 +65,6 @@ echo "<option value='".$file."'>" . $file . "</option>";
 	<p>Season</p>
       <input id="season" type="text" value="" class="form-control" name="season" placeholder="exp.02 Leave it empty if it is first season " autocomplete="off" >
     </div>
-    <div class="col">
-	<p>Video container</p>
-	<select name="container"class="form-control">
-		<option value="mkv">MKV</option>
-		<option value="avi">AVI</option>
-		<option value="mp4">MP4</option>
-	</select>
-   </div>
 </div>
 <br/><div id="s2controllers">
 <p style="text-center">Folder of first season. If you want create new folder leave it empty</center>
